@@ -1,0 +1,16 @@
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\bin\Debug\net5.0\Chapter16.exe
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\bin\Debug\net5.0\Chapter16.deps.json
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\bin\Debug\net5.0\Chapter16.runtimeconfig.json
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\bin\Debug\net5.0\Chapter16.runtimeconfig.dev.json
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\bin\Debug\net5.0\Chapter16.dll
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\bin\Debug\net5.0\ref\Chapter16.dll
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\bin\Debug\net5.0\Chapter16.pdb
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\obj\Debug\net5.0\Chapter16.csprojAssemblyReference.cache
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\obj\Debug\net5.0\Chapter16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\obj\Debug\net5.0\Chapter16.AssemblyInfoInputs.cache
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\obj\Debug\net5.0\Chapter16.AssemblyInfo.cs
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\obj\Debug\net5.0\Chapter16.csproj.CoreCompileInputs.cache
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\obj\Debug\net5.0\Chapter16.dll
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\obj\Debug\net5.0\ref\Chapter16.dll
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\obj\Debug\net5.0\Chapter16.pdb
+C:\Users\HP\RiderProjects\Chapter16\Chapter16\obj\Debug\net5.0\Chapter16.genruntimeconfig.cache
